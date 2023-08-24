@@ -1,5 +1,5 @@
 # Neural_Network
-ROHILA POTLURI
+ROHILA POTLURI, 
 UCM Id:700744509
 
 In the first question(ICP_1_1_Reverse) I took the input string from console and created a new list and then filled the list with individual characters from the string taken and then deleted atleast two characters from it and then reversed it and again converted the indivial charcaters list as a string and then printed it. In the arithmatic question I took the two inputs x and y and performed addition, subtract, multiply and division operations and printed the outputs accordingly. 
