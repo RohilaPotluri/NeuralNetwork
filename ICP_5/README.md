@@ -3,5 +3,6 @@
 Rohila Potluri
 UCM Id: 700744509
 
-In ICP_3_1, created a data member count, Created a constructor to initialize name, family, salary, department and created a function average salary and Created Fulltime Employee class which inherited the properties of Employee class and finally created instances for the classes, calling the respective functions.
-In ICP_3_2, Installed the NumPy package and using that created a random vector of size 20 having only float in the range 1-20. Then reshaped the array to 4 by 5 Then replaced the max in each row by 0 (axis=1).
+In ICP_5_1, I have implemented naïve bayes method using scikit learn library using the glass dataset provided. Used train_test_split to create training and testing part. By using Naïve bayes classifier , and by using 0.2 as test_size. Then I evaluated the model on test part using score.I observed 37.5% accuracy
+In ICP_5_2, I have implemented SVM method using scikit learn library using the glass dataset provided. Used train_test_split to create training and testing part. By using SVM classifier , and by using 0.2 as test_size. Then I evaluated the model on test part using score. I observed 66.7% accuracy
+Here I got better accuracy with linear SVM than NB. NB uses a probabalistic analysis and all features are independent where as linear SVM uses geometrical analysis.
